@@ -23,7 +23,8 @@ hash[key]
 end
 
 def update_counting_hash(hash, key)
-update_hash = ("apples", "orange")
+update_hash = {"apples"}
+
 
 }
 end
