@@ -24,7 +24,7 @@ end
 
 def update_counting_hash(hash, key)
 update_hash = {"apples"}
-
+update_hash =
 
 }
 end
