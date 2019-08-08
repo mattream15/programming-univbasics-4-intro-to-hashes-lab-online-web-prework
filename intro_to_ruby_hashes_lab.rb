@@ -29,6 +29,3 @@ if update_hash["oranges"]
 update_hash["oranges"] += 1
 else update_hash["oranges"] = 1
 end
-
-}
-end
