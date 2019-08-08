@@ -26,7 +26,7 @@ def update_counting_hash(hash, key)
 update_hash = {"apples" => 3}
 update_hash = {"apples"}
 if update_hash = {"oranges"}
-else
+update_hash 
 
 }
 end
